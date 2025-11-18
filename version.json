@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "release_date": "2024-11-18",
-  "release_notes": "Initial release - All DLLs included for Xeno executor",
+  "release_notes": "Initial release - All DLLs included for satx executor",
   "required": false,
   "min_app_version": "1.0.0",
   "files": [
