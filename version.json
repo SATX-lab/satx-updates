@@ -1,45 +1,29 @@
 {
   "version": "1.0.0",
-  "release_date": "2024-11-18",
-  "release_notes": "Initial release - All DLLs included for satx executor",
-  "required": false,
-  "min_app_version": "1.0.0",
   "files": [
     {
       "name": "Xeno.dll",
-      "url": "https://github.com/SATX-lab/satx-updates/releases/download/bv/Xeno.dll",
-      "size": 2023424,
-      "md5": ""
+      "url": "https://github.com/SATX-lab/satx-updates/releases/download/bv/Xeno.dll"
     },
     {
       "name": "XenoUI.dll",
-      "url": "https://github.com/SATX-lab/satx-updates/releases/download/bv/XenoUI.dll",
-      "size": 148480,
-      "md5": ""
+      "url": "https://github.com/SATX-lab/satx-updates/releases/download/bv/XenoUI.dll"
     },
     {
       "name": "libcrypto-3-x64.dll",
-      "url": "https://github.com/SATX-lab/satx-updates/releases/download/bv/libcrypto-3-x64.dll",
-      "size": 7323648,
-      "md5": ""
+      "url": "https://github.com/SATX-lab/satx-updates/releases/download/bv/libcrypto-3-x64.dll"
     },
     {
       "name": "libssl-3-x64.dll",
-      "url": "https://github.com/SATX-lab/satx-updates/releases/download/bv/libssl-3-x64.dll",
-      "size": 1437696,
-      "md5": ""
+      "url": "https://github.com/SATX-lab/satx-updates/releases/download/bv/libssl-3-x64.dll"
     },
     {
       "name": "xxhash.dll",
-      "url": "https://github.com/SATX-lab/satx-updates/releases/download/bv/xxhash.dll",
-      "size": 47616,
-      "md5": ""
+      "url": "https://github.com/SATX-lab/satx-updates/releases/download/bv/xxhash.dll"
     },
     {
       "name": "zstd.dll",
-      "url": "https://github.com/SATX-lab/satx-updates/releases/download/bv/zstd.dll",
-      "size": 654336,
-      "md5": ""
+      "url": "https://github.com/SATX-lab/satx-updates/releases/download/bv/zstd.dll"
     }
   ]
 }
